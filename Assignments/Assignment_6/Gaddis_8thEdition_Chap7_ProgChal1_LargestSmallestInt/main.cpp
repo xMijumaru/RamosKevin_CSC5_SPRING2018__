@@ -31,8 +31,8 @@ int main(int argc, char** argv) {
         cout << "Enter integer #" << quan+1 << ": ";
         cin >> array [quan];
     }
-    smal= array[0];
-    lar= array[0];
+    int smal= array[0];
+    int lar= array[0];
     for (int i = 0; i <= 9; i ++) //Checks the 10 numbers
     {
     
